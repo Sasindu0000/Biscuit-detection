@@ -4,7 +4,6 @@
 
 This project aims to detect whether biscuits are **broken or intact** using classical image processing techniques. Images captured on a white background are processed to detect biscuits and classify them.
 
-⚠️ Machine learning methods are NOT used.
 
 ---
 
@@ -13,6 +12,7 @@ This project aims to detect whether biscuits are **broken or intact** using clas
 * Python 3.x
 * OpenCV (`cv2`)
 * NumPy
+* OS Module
 
 ---
 
