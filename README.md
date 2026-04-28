@@ -43,10 +43,11 @@ python main.py
 
 ### Input
 
-![Input](input/sample.jpg)
+![Input](input/B-1.jpg)
+![Input](input/B-8.jpg)
 
 ### Output
 
-![Output](output/sample_output.jpg)
-
+![Output](output/result_B-1.jpg)
+![Output](output/result_B-8.jpg)
 
