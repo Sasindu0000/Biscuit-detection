@@ -34,7 +34,7 @@ This project aims to detect whether biscuits are **broken or intact** using clas
 git clone https://github.com/yourusername/biscuit-detection.git
 cd biscuit-detection
 pip install opencv-python numpy
-python main.py
+python code.ipynb
 ```
 
 ---
