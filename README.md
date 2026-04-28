@@ -41,13 +41,13 @@ python main.py
 
 ## 🖼️ Example Output Images
 
-### Input
+### Input Images
 
-![Input](input/B-1.jpg)
-![Input](input/B-8.jpg)
+![Input](input/B-1.jpeg)
+![Input](input/B-6.jpeg)
 
-### Output
+### Output Images
 
-![Output](output/result_B-1.jpg)
-![Output](output/result_B-8.jpg)
+![Output](output/result_B-1.jpeg)
+![Output](output/result_B-6.jpeg)
 
