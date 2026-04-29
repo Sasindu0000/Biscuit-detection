@@ -1,13 +1,13 @@
-# 🍪 Broken Biscuit Detection using Classical Image Processing Techniques
+#  Broken Biscuit Detection using Classical Image Processing Techniques
 
-## 📌 Problem Description
+##  Problem Description
 
 This project aims to detect whether biscuits are **broken or intact** using classical image processing techniques. Images captured on a white background are processed to detect biscuits and classify them.
 
 
 ---
 
-## 🛠️ Tools and Libraries Used
+##  Tools and Libraries Used
 
 * Python 3.x
 * OpenCV (`cv2`)
@@ -16,7 +16,7 @@ This project aims to detect whether biscuits are **broken or intact** using clas
 
 ---
 
-## 🧠 Image Processing Methods Used
+##  Image Processing Methods Used
 
 1. Grayscale Conversion
 2. Gaussian Blur
@@ -28,7 +28,7 @@ This project aims to detect whether biscuits are **broken or intact** using clas
 
 ---
 
-## ▶️ Instructions to Run the Code
+##  Instructions to Run the Code
 
 ```bash
 git clone https://github.com/Sasindu0000/Biscuit-detection.git
@@ -39,7 +39,7 @@ python code.ipynb
 
 ---
 
-## 🖼️ Example Output Images
+##  Example Output Images
 
 ### Input Images
 
